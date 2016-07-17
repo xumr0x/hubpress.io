@@ -4,7 +4,12 @@
     "repositoryName": "xumr0x.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "juhoooo",
+    "description": "Just some random stuffs"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
